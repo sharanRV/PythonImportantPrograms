@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b767720-84e0-4884-9719-5358588cacdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Fibonacci_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Find_Max_Min_Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sumofelements_in_array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,17 +47,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Factorial_Recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Factorial_iterative.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Prime_Number.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Swap_Two_Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Factorial_Recursion.executor": "Run",
+    "Python.Factorial_iterative.executor": "Run",
+    "Python.Fibonacci_Number.executor": "Run",
+    "Python.Find_Max_Min_Element.executor": "Run",
+    "Python.Prime_Number.executor": "Debug",
+    "Python.Sumofelements_in_array.executor": "Run",
+    "Python.Swap_Two_Numbers.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
+    <configuration name="Fibonacci_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonImportantPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Fibonacci_Number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Prime_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonImportantPrograms" />
       <option name="ENV_FILES" value="" />
@@ -81,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fibonacci_Number" />
         <item itemvalue="Python.Prime_Number" />
       </list>
     </recent_temporary>
