@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b767720-84e0-4884-9719-5358588cacdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Find_Max_Min_Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sumofelements_in_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/10.Swap_Any_Two_element_of_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/11.Remove_nth_occurance_of_the_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/12.Search_An_Element_In_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/13.Clear_a_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/14.Reverse_a_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/8.Find_length_of_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/9.Swap_First_and_Last_element_of_List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial_Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2.Factorial_Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial_iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1.Factorial_iterative.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/3.Fibonacci_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Find_Max_Min_Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/4.Find_Max_Min_Element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prime_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/5.Prime_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sumofelements_in_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/6.Sumofelements_in_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Swap_Two_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/7.Swap_Two_Numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,19 +61,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10.Swap_Any_Two_element_of_list.executor": "Run",
+    "Python.11.Remove_nth_occurance_of_the_word.executor": "Run",
+    "Python.12.Search_An_Element_In_List.executor": "Run",
+    "Python.13.Clear_a_List.executor": "Run",
+    "Python.14.Reverse_a_List.executor": "Run",
+    "Python.8.Find_length_of_list.executor": "Run",
     "Python.Factorial_Recursion.executor": "Run",
     "Python.Factorial_iterative.executor": "Run",
     "Python.Fibonacci_Number.executor": "Run",
     "Python.Find_Max_Min_Element.executor": "Run",
     "Python.Prime_Number.executor": "Debug",
     "Python.Sumofelements_in_array.executor": "Run",
+    "Python.Swap_First_and_Last_element_of_List.executor": "Run",
     "Python.Swap_Two_Numbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Fibonacci_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.Fibonacci_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonImportantPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Fibonacci_Number.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Asus\PycharmProjects\PythonImportantPrograms\src\3.Fibonacci_Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Prime_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.Prime_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonImportantPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Prime_Number.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Asus\PycharmProjects\PythonImportantPrograms\src\5.Prime_Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Fibonacci_Number" />
-        <item itemvalue="Python.Prime_Number" />
+        <item itemvalue="Python.3.Fibonacci_Number" />
+        <item itemvalue="Python.5.Prime_Number" />
       </list>
     </recent_temporary>
   </component>
