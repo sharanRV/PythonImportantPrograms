@@ -5,21 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b767720-84e0-4884-9719-5358588cacdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/10.Swap_Any_Two_element_of_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/11.Remove_nth_occurance_of_the_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/12.Search_An_Element_In_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/13.Clear_a_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/14.Reverse_a_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/8.Find_length_of_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/9.Swap_First_and_Last_element_of_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/15.Clone_Or_Copy_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16.Count_Occurances_Of_Element_In_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17.Sum_of_Elements_in_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18.Multiply_All_Numbers_In_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19.Find_Smallest_nd_Largest_num_in_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/20.Find_Second_Largest_Num_In_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21.Check_String_Is_Palindrome_Or_Not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22.How to Reverse a Words In a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/23.Find_Sub_String_Present_In_A_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/24.How_To_Find_The_Length_of_String.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factorial_Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2.Factorial_Recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factorial_iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1.Factorial_iterative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/3.Fibonacci_Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Find_Max_Min_Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/4.Find_Max_Min_Element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prime_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/5.Prime_Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sumofelements_in_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/6.Sumofelements_in_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swap_Two_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/7.Swap_Two_Numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +62,17 @@
     "Python.12.Search_An_Element_In_List.executor": "Run",
     "Python.13.Clear_a_List.executor": "Run",
     "Python.14.Reverse_a_List.executor": "Run",
+    "Python.15.Clone_Or_Copy_List.executor": "Run",
+    "Python.17.Sum_of_Elements_in_List.executor": "Run",
+    "Python.18.Multiply_All_Numbers_In_List.executor": "Run",
+    "Python.19.Find_Smallest_nd_Largest_num_in_List.executor": "Run",
+    "Python.20.Find_Second_Largest_Num_In_List.executor": "Run",
+    "Python.21.Check_String_Is_Palindrome_Or_Not.executor": "Run",
+    "Python.22.How to Reverse a Words In a String.executor": "Run",
+    "Python.23.Find_Sub_String_Present_In_A_String.executor": "Run",
+    "Python.24.How_To_Find_The_Length_of_String.executor": "Run",
     "Python.8.Find_length_of_list.executor": "Run",
+    "Python.Count_Occurances_Of_Element_In_List.executor": "Run",
     "Python.Factorial_Recursion.executor": "Run",
     "Python.Factorial_iterative.executor": "Run",
     "Python.Fibonacci_Number.executor": "Run",
